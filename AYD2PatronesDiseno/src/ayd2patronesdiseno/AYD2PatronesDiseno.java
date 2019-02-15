@@ -29,8 +29,6 @@ public class AYD2PatronesDiseno {
         //----------- Se producen elementos para varias computadoras -----------
         fab1.NuevaComputadora("PC1");
         fab1.NuevaComputadora("PC2");
-        fab1.NuevaComputadora("PC3");
-        fab1.NuevaComputadora("PC4");
         System.out.println(">>"+fab1.getName());
         /***
          * Luego de fabricar las computadoras 
@@ -55,8 +53,6 @@ public class AYD2PatronesDiseno {
         //----------- Se producen elementos para varias computadoras -----------
         fab2.NuevaComputadora("PC1");
         fab2.NuevaComputadora("PC2");
-        fab2.NuevaComputadora("PC3");
-        fab2.NuevaComputadora("PC4");
         System.out.println(">>"+fab2.getName());
         /***
          * Luego de fabricar las computadoras 
